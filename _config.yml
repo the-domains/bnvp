@@ -1,0 +1,14 @@
+layout_spectrum: 0.4721849365159869
+typography_spectrum: 0.7095422390848398
+color:
+  brandStrength: 0.022359956987202168
+  lightness: 0.24010758684016764
+  saturation: 0.9558992497622967
+  rhythmicContrast: 0.7057919171638787
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: bnvp
